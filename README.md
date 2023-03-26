@@ -2,8 +2,8 @@
 Advanced Blockchain Technology(CPSC 559) - Under Professor Wenlin Han at California State University-Fullerton
 
 # Description:
-Project developed to create a Decentralised App (dApp) Game developed based on Ethereum blockchain. Smart contracts as the core of this project are written in Solidity language. The project has an index.html which works as a GUI for the dApp. 
-The game is all about Zombies and kitties. User can create Zombie, show zombie,level it up, show kitty. Blockchain technology contracts can interact to each other easily. 
+Project developed to create a Decentralised App (dApp) Game developed based on Ethereum blockchain. Smart contracts used in this project are the core of this project which is written in Solidity language. The project has an index.html which basically works as a GUI for the dApp. 
+This game is all about Zombies and kitties. Basically user can perform the following functionalities like creating a Zombie, showing zombie,leveling it up and showing kitty.
 
 # Mid Term Project:
 
