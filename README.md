@@ -13,15 +13,16 @@ Debdyuti Das(886676550) - Debdyutidas@csu.fullerton.edu
 
 Meghana Bodapati Thirumalanaidu() - poonammetkar@csu.fullerton.edu
 
-Pooja Ravi(885897850) -nitishlele@csu.fullerton.edu
+Pooja Honneshwari Ravi(885237305) - pooja.ravi@csu.fullerton.edu
 
-Shriya Bannikope (885866178) - ayush@csu.fullerton.edu
+Shriya Bannikop (885196238) - shriyabannikop@csu.fullerton.edu
 
 **Improvements**
 - Added new Buttons
 - Added images to demo zombies in a better way
 - Deployed to Goerli test network
 - Added smart kitty contract in the backend
+- Updated frontend UI to make it look better
 
 
 **Project URL**
