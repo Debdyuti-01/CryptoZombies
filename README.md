@@ -7,7 +7,7 @@ The game is all about Zombies and kitties. User can create Zombie, level it up, 
 
 # Mid Term Project:
 
-## Team Members:
+### Team Members
 
 Debdyuti Das(886676550) - Debdyutidas@csu.fullerton.edu
 
@@ -17,7 +17,7 @@ Pooja Honneshwari Ravi(885237305) - pooja.ravi@csu.fullerton.edu
 
 Shriya Bannikop (885196238) - shriyabannikop@csu.fullerton.edu
 
-**Improvements**
+### Improvements
 - Added new Buttons
 - Added images to demo zombies in a better way
 - Deployed to Goerli test network
@@ -25,5 +25,5 @@ Shriya Bannikop (885196238) - shriyabannikop@csu.fullerton.edu
 - Updated frontend UI to make it look better
 
 
-**Project URL**
-https://github.com/Debdyuti-01/CryptoZombies
+## Project URL
+- https://github.com/Debdyuti-01/CryptoZombies
