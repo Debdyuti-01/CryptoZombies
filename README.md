@@ -18,11 +18,12 @@ Pooja Honneshwari Ravi(885237305) - pooja.ravi@csu.fullerton.edu
 Shriya Bannikop (885196238) - shriyabannikop@csu.fullerton.edu
 
 ### Improvements
-- Added new Buttons
-- Added images to demo zombies in a better way
-- Deployed to Goerli test network
-- Added smart kitty contract in the backend
 - Updated frontend UI to make it look better
+- Added new Buttons and tabs redirecting to another site
+- Added images to demo zombies in a better way
+- Deployed to Sepolia test network
+- Added smart kitty contract in the backend
+
 
 
 ### Project URL
