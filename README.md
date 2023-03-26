@@ -11,7 +11,7 @@ The game is all about Zombies and kitties. User can create Zombie, level it up, 
 
 Debdyuti Das(886676550) - Debdyutidas@csu.fullerton.edu
 
-Meghana Bodapati Thirumalanaidu() - poonammetkar@csu.fullerton.edu
+Meghana Bodapati ThirumalaNaidu(885206029) - meghanabt@csu.fullerton.edu
 
 Pooja Honneshwari Ravi(885237305) - pooja.ravi@csu.fullerton.edu
 
